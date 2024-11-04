@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "105308043453",
+    "project_id": "bengkelmotor-b3e19",
+    "storage_bucket": "bengkelmotor-b3e19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105308043453:android:bf5e99907382a05cfb9fd4",
+        "android_client_info": {
+          "package_name": "com.example.bengkel_motor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105308043453-jhfuubgjldf2c518ebjp8uj285nc3lju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc0pJiXr9wGHnBWWpwWVXGem9Mg1gXA8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105308043453-jhfuubgjldf2c518ebjp8uj285nc3lju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
